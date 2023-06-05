@@ -1,0 +1,19 @@
+{
+  "name": "day02todos",
+  "version": "1.0.0",
+  "description": "day02homework, implement the following API calls operating on JSON data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xiaoxing Pan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "log": "^6.3.1",
+    "moment": "^2.29.4",
+    "mysql2": "^3.3.3",
+    "npmlog": "^7.0.1"
+  }
+}
